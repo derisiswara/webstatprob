@@ -43,12 +43,12 @@ td {
 }
 
 /* Styling untuk minggu UTS dan UAS */
-tbody tr:nth-child(5), tbody tr:nth-child(11) {
+tbody tr:nth-child(5), tbody tr:nth-child(9) {
   background-color: #fff3cd;
   font-weight: bold;
 }
 
-.striped tbody tr:nth-child(odd):not(:nth-child(5)):not(:nth-child(11)) {
+.striped tbody tr:nth-child(odd):not(:nth-child(5)):not(:nth-child(9)) {
   background-color: #f8f9fa;
 }
 
