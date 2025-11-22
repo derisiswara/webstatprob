@@ -1,0 +1,22 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Statistika dan Probabilitas",
+    "section": "",
+    "text": "Minggu\nTopik\nMateri Pembelajaran\nMaterial\n\n\n\n\n1-2\nStatistika Deskriptif\nDefinisi statistika, jenis data, pengumpulan data, penyajian data, ukuran pemusatan (mean, median, modus), ukuran penyebaran (range, variansi, standar deviasi)\nSlide\n\n\n3-4\nEksperimen Acak, Ruang Sampel, dan Konsep Peluang\nEksperimen acak (random experiment), ruang sampel (sample space), kejadian (event) dan klasifikasinya, konsep probabilitas dasar, aturan penjumlahan dan perkalian\nSlide\n\n\n5-6\nKombinatorika dan Teorema Bayes\nKaidah kombinatorika dalam kalkulasi peluang diskret, probabilitas bersyarat, teorema Bayes dan aplikasinya\nSlide\n\n\n7\nPeubah Acak dan Nilai Ekspektasi\nPeubah acak diskret dan kontinu, fungsi probabilitas, nilai ekspektasi, nilai variansi\nSlide\n\n\n8\nUjian Tengah Semester\nEvaluasi materi minggu 1-7\n-\n\n\n9-10\nDistribusi Peubah Acak Diskret dan Kontinu\nDistribusi Bernoulli, binomial, Poisson, hipergeometrik, distribusi uniform, eksponensial, distribusi normal, aproksimasi distribusi normal untuk binomial\nSlide\n\n\n11-12\nEstimasi Paramater dan Pengujian Hipotesis\nPenaksiran parameter (estimasi titik dan interval), konsep dasar pengujian hipotesis, pengujian hipotesis satu arah dan dua arah, pengujian terhadap rataan, variansi, dan proporsi populasi\nSlide\n\n\n13-14\nAnalisis Regresi\nRegresi linear sederhana dan berganda, estimasi parameter regresi, pengujian hipotesis dalam regresi, aplikasi dengan data nyata\nSlide\n\n\n15\nUjian Akhir Semester\nEvaluasi materi minggu 8-14\n-",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#materi-perkuliahan",
+    "href": "index.html#materi-perkuliahan",
+    "title": "Statistika dan Probabilitas",
+    "section": "",
+    "text": "Minggu\nTopik\nMateri Pembelajaran\nMaterial\n\n\n\n\n1-2\nStatistika Deskriptif\nDefinisi statistika, jenis data, pengumpulan data, penyajian data, ukuran pemusatan (mean, median, modus), ukuran penyebaran (range, variansi, standar deviasi)\nSlide\n\n\n3-4\nEksperimen Acak, Ruang Sampel, dan Konsep Peluang\nEksperimen acak (random experiment), ruang sampel (sample space), kejadian (event) dan klasifikasinya, konsep probabilitas dasar, aturan penjumlahan dan perkalian\nSlide\n\n\n5-6\nKombinatorika dan Teorema Bayes\nKaidah kombinatorika dalam kalkulasi peluang diskret, probabilitas bersyarat, teorema Bayes dan aplikasinya\nSlide\n\n\n7\nPeubah Acak dan Nilai Ekspektasi\nPeubah acak diskret dan kontinu, fungsi probabilitas, nilai ekspektasi, nilai variansi\nSlide\n\n\n8\nUjian Tengah Semester\nEvaluasi materi minggu 1-7\n-\n\n\n9-10\nDistribusi Peubah Acak Diskret dan Kontinu\nDistribusi Bernoulli, binomial, Poisson, hipergeometrik, distribusi uniform, eksponensial, distribusi normal, aproksimasi distribusi normal untuk binomial\nSlide\n\n\n11-12\nEstimasi Paramater dan Pengujian Hipotesis\nPenaksiran parameter (estimasi titik dan interval), konsep dasar pengujian hipotesis, pengujian hipotesis satu arah dan dua arah, pengujian terhadap rataan, variansi, dan proporsi populasi\nSlide\n\n\n13-14\nAnalisis Regresi\nRegresi linear sederhana dan berganda, estimasi parameter regresi, pengujian hipotesis dalam regresi, aplikasi dengan data nyata\nSlide\n\n\n15\nUjian Akhir Semester\nEvaluasi materi minggu 8-14\n-",
+    "crumbs": [
+      "Home"
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  page-navigation: true
+  title: "Statistika dan Probabilitas"
+  description: "Homepage untuk SI243040 - Statistika dan Probabilitas."
+  site-url: ""
+
+  open-graph: true
+
+  sidebar:
+    background: "#007bff"
+    logo: "img/Picture1.png"
+    pinned: true
+    align: center
+    contents:
+      - text: "Home"
+        href: index.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    page-layout: full
