@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://derisiswara.github.io/webstatprob/sitemap.xml
