@@ -9,13 +9,13 @@ toc: false
 
 | Minggu | Topik | Materi Pembelajaran | Material |
 |:-----------------|:-----------------|:-----------------|:-----------------|
-| 1-2 | Statistika Deskriptif | Definisi statistika, jenis data, pengumpulan data, penyajian data, ukuran pemusatan (mean, median, modus), ukuran penyebaran (range, variansi, standar deviasi) | [Slide](#) |
-| 3-4 | Eksperimen Acak, Ruang Sampel, dan Konsep Peluang | Eksperimen acak (random experiment), ruang sampel (sample space), kejadian (event) dan klasifikasinya, konsep probabilitas dasar, aturan penjumlahan dan perkalian | [Slide](#) |
-| 5-6 | Kombinatorika dan Teorema Bayes | Kaidah kombinatorika dalam kalkulasi peluang diskret, probabilitas bersyarat, teorema Bayes dan aplikasinya | [Slide](#) |
-| 7 | Peubah Acak dan Nilai Ekspektasi | Peubah acak diskret dan kontinu, fungsi probabilitas, nilai ekspektasi, nilai variansi | [Slide](#) |
+| 1-2 | Statistika Deskriptif | Definisi statistika, jenis data, pengumpulan data, penyajian data, ukuran pemusatan (mean, median, modus), ukuran penyebaran (range, variansi, standar deviasi) | [📚W1](https://derisiswara.art/statprob/week1.html)<br>[📚W2](https://derisiswara.art/statprob/week2.html) |
+| 3-4 | Eksperimen Acak, Ruang Sampel, dan Konsep Peluang | Eksperimen acak (random experiment), ruang sampel (sample space), kejadian (event) dan klasifikasinya, konsep probabilitas dasar, aturan penjumlahan dan perkalian | [📚W3-W4](https://derisiswara.art/statprob/week3.html)<br>[📝Tugas](https://derisiswara.art/statprob/week4.html) |
+| 5-6 | Kombinatorika dan Teorema Bayes | Kaidah kombinatorika dalam kalkulasi peluang diskret, probabilitas bersyarat, teorema Bayes dan aplikasinya | [📚W5](https://derisiswara.art/statprob/week5.html)<br>[📚W6](https://derisiswara.art/statprob/week6.html) |
+| 7 | Peubah Acak dan Nilai Ekspektasi | Peubah acak diskret dan kontinu, fungsi probabilitas, nilai ekspektasi, nilai variansi | [📚W7](https://derisiswara.art/statprob/week7_nocalculus.html) |
 | 8 | **Ujian Tengah Semester** | Evaluasi materi minggu 1-7 | \- |
-| 9-10 | Distribusi Peubah Acak Diskret dan Kontinu | Distribusi Bernoulli, binomial, Poisson, hipergeometrik, distribusi uniform, eksponensial, distribusi normal, aproksimasi distribusi normal untuk binomial | [Slide](#) |
-| 11-12 | Estimasi Paramater dan Pengujian Hipotesis | Penaksiran parameter (estimasi titik dan interval), konsep dasar pengujian hipotesis, pengujian hipotesis satu arah dan dua arah, pengujian terhadap rataan, variansi, dan proporsi populasi | [📚W11](#)<br>[📚W12](material/w12.pdf)<br>[📝Tugas](material/t11-12.pdf) |
+| 9-10 | Distribusi Peubah Acak Diskret dan Kontinu | Distribusi Bernoulli, binomial, Poisson, hipergeometrik, distribusi uniform, eksponensial, distribusi normal, aproksimasi distribusi normal untuk binomial | [📚W9-10-v1](material/w9-10.pdf)<br>[📚W9-10-v2](https://derisiswara.quarto.pub/statistika-dan-probabilitas---cookbook/#/distribusi-probabilitas) |
+| 11-12 | Estimasi Paramater dan Pengujian Hipotesis | Penaksiran parameter (estimasi titik dan interval), konsep dasar pengujian hipotesis, pengujian hipotesis satu arah dan dua arah, pengujian terhadap rataan, variansi, dan proporsi populasi | [📚W11](material/week11.pdf)<br>[📚W12](material/w12.pdf)<br>[📝Tugas](material/t11-12.pdf) |
 | 13-14 | Analisis Regresi | Regresi linear sederhana dan berganda, estimasi parameter regresi, pengujian hipotesis dalam regresi, aplikasi dengan data nyata | [Slide](#) |
 | 15 | **Ujian Akhir Semester** | Evaluasi materi minggu 8-14 | \- |
 
