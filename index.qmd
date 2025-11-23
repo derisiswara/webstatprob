@@ -16,7 +16,7 @@ toc: false
 | 8 | **Ujian Tengah Semester** | Evaluasi materi minggu 1-7 | \- |
 | 9-10 | Distribusi Peubah Acak Diskret dan Kontinu | Distribusi Bernoulli, binomial, Poisson, hipergeometrik, distribusi uniform, eksponensial, distribusi normal, aproksimasi distribusi normal untuk binomial | [📚W9-10-v1](material/w9-10.pdf)<br>[📚W9-10-v2](https://derisiswara.quarto.pub/statistika-dan-probabilitas---cookbook/#/distribusi-probabilitas) |
 | 11-12 | Estimasi Paramater dan Pengujian Hipotesis | Penaksiran parameter (estimasi titik dan interval), konsep dasar pengujian hipotesis, pengujian hipotesis satu arah dan dua arah, pengujian terhadap rataan, variansi, dan proporsi populasi | [📚W11](material/week11.pdf)<br>[📚W12](material/w12.pdf)<br>[📝Tugas](material/t11-12.pdf) |
-| 13-14 | Analisis Regresi | Regresi linear sederhana dan berganda, estimasi parameter regresi, pengujian hipotesis dalam regresi, aplikasi dengan data nyata | [Slide](#) |
+| 13-14 | Analisis Regresi | Regresi linear sederhana dan berganda, estimasi parameter regresi, pengujian hipotesis dalam regresi, aplikasi dengan data nyata | [📚W13-W14](material/w1314_regresi.pdf)<br>[📝Praktik di Excel](material/Praktek Regresi.xlsx) |
 | 15 | **Ujian Akhir Semester** | Evaluasi materi minggu 8-14 | \- |
 
 : {tbl-colwidths="\[10,20,40,30\]"}
